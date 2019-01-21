@@ -3,4 +3,8 @@ Thats right
 I said it
 
 Add another line
+<<<<<<< HEAD
 fdfgsrf
+=======
+Add in feature branch
+>>>>>>> feature
