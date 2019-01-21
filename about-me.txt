@@ -1,3 +1,5 @@
 This is a good class!
 Thats right
 I said it
+
+Add another line
